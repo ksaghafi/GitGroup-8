@@ -1,2 +1,6 @@
 # GitGroup-8
-group Git project
+
+## Group Members
+- Kevin 
+- Nabi
+- Rylan
